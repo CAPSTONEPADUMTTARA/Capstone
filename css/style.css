@@ -1,0 +1,77 @@
+.slider h3,
+.slider h5,
+.clients h3 {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+.parallax-container {
+  height: 20%;
+}
+.parallax img {
+  opacity: 0.5 !important;
+}
+.partner img {
+  max-width: 200px;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 1));
+}
+.servises img {
+  filter: drop-shadow(1px 1px 1px rgba(1, 1, 1, 1));
+}
+section,
+footer {
+  padding: 10px 0;
+}
+.slider .indicators .indicator-item.active {
+  background-color: #015249;
+}
+
+section .container-fluid .row .card-panel{
+  height: 425px;
+  background-color:#77c9d4 ;
+  color: #015249;
+
+}
+section .container-fluid .row .card-panel{
+  height: 460px;
+  background-color:#77c9d4 ;
+  color: #015249;
+
+}
+
+.text-aja{
+  color: #000000;
+  text-decoration-color: #015249;
+}
+.bgaja{
+  background-color:#77c9d4 ;
+}
+.ukur{
+  border: 0;
+  margin: 0;
+  height: 50px;
+}
+
+.navbar-fixed nav{
+    background-color: white;
+}
+
+.navbar-fixed nav li a{
+  color: #015249 ;
+}
+
+.navbar-fixed nav li a:hover{
+  background-color: #77c9d4 ;
+  color :white;
+}
+
+.slider i .material-icons{
+  background-color:#77c9d4;
+}
+
+.sidenav li a{
+  color:#015249 ;
+}
+
+ .sidenav li a:hover{
+  background-color: #77c9d4 ;
+  color:white;
+}
