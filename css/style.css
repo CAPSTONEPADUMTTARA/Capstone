@@ -9,6 +9,10 @@
 .parallax img {
   opacity: 0.5 !important;
 }
+.table-text{
+  vertical-align: top;
+  align-items: start;
+}
 .partner img {
   max-width: 200px;
   filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 1));
@@ -37,6 +41,7 @@ section .container-fluid .row .card-panel{
 
 }
 
+
 .text-aja{
   color: #000000;
   text-decoration-color: #015249;
@@ -52,11 +57,6 @@ section .container-fluid .row .card-panel{
 
 .navbar-fixed nav{
     background-color: white;
-}
-
-.table-text{
-  vertical-align: top;
-  align-items: start;
 }
 
 .navbar-fixed nav li a{
