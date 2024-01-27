@@ -54,6 +54,11 @@ section .container-fluid .row .card-panel{
     background-color: white;
 }
 
+.table-text{
+  vertical-align: top;
+  align-items: start;
+}
+
 .navbar-fixed nav li a{
   color: #015249 ;
 }
