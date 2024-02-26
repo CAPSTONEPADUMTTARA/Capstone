@@ -80,3 +80,41 @@ section .container-fluid .row .card-panel{
   background-color: #77c9d4 ;
   color:white;
 }
+
+@media  (max-width:1400px) {
+  
+  .container .row .col .card .atur {
+    height: 260px;
+    width: 100%;
+    overflow: hidden;
+  }
+}
+
+@media  (max-width:1200px) {
+  
+  .container .row .col .card .atur {
+    height: 210px;
+    width: 100%;
+    overflow: hidden;
+  }
+}
+
+@media  (max-width:1100px) {
+  
+  .container .row .col .card .atur {
+    height: 198px;
+    width: 100%;
+    overflow: hidden;
+  }
+}
+
+@media  (max-width:1000px) {
+  
+  .container .row .col .card .atur {
+    height: 220px;
+    width: 100%;
+    overflow: hidden;
+  }
+}
+
+
